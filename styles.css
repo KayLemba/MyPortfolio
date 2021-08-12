@@ -71,10 +71,6 @@ h1 {
   color: #6070ff;
 }
 
-.logo a {
-  text-decoration: none;
-}
-
 #section-one {
   background-image: url('./images/background.png');
   background-size: cover;
