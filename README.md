@@ -1,28 +1,30 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Mobile Skeleton Project For Microverse By Kalolo Chola Lemba
 
-> One paragraph statement about the project.
+> This is a simple web develoment project for microverse created using simple HTML(Hyper text mark-up Language.) and CSS(Cascading Style Sheet) which is used for styling or decorating the webpage 
 
-![screenshot](./app_screenshot.png)
+![screenshot](./Myportfolio.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
 - Major languages
-- Frameworks
-- Technologies used
+- Html
+- css
 
-## Live Demo
 
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**Instructions on how to access my project locally.**
+```
+To download my repository from Github you should navigate to the top left level of the project and the green code download button will be visible on the right hand side.
+Select the download Zip option from the pull down Menu. The Zip file will contain the entire repository content which can be set-up locally.Use this link to access my repository on Github :https://kaylemba.github.io/MyPortfolio/
+```
+
 
 
 To get a local copy up and running follow these simple example steps.
@@ -43,17 +45,9 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Kalolo Chola Lemba**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/KayLemba)
 
 ## 🤝 Contributing
 
