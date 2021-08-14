@@ -7,6 +7,10 @@
   text-decoration: none;
 }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   font-family: 'Poppins', sans-serif;
 }
@@ -216,15 +220,24 @@ ul {
 .btn-one {
   border: 1px solid #396df2;
   padding: 7px;
+  color: #396df2;
   border-radius: 12px;
   font-size: 17px;
   font-weight: 300;
   text-transform: capitalize;
 }
 
+.btn-one a:focus {
+  background-color: #2230d2;
+  color: #fff;
+}
+
+.a:hover {
+  background-color: royalblue;
+}
+
 .btn-two {
   border: 1px solid #4053fc;
-  background: #4053fc;
   padding: 7px;
   border-radius: 4%;
   font-size: 17px;
@@ -237,7 +250,7 @@ a.btn-one {
   color: #4053fc;
 }
 
-a.btn-two {
+a .btn-two {
   color: #fff;
   text-decoration: none;
 }
